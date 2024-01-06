@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -o $PYCODE
+gcc python3 -o $PYCODE
